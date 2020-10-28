@@ -17,3 +17,4 @@
 * git checkout -- xxx 把未提交的文件恢复到上次提交状态
 * git reset HEAD xxx 从暂存区撤销
 * git reset --hard HEAD^ 整个代码版本回退(一个^代表一个版本)
+* git reset --hard xxxxxx 回退到具体某个版本
