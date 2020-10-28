@@ -28,3 +28,4 @@
 * git checkout xx 切换分支
 * git branch -d xx 删除分支，不能删除当前所在分支
 * git checkout -b xx 创建并切换分支
+* git merge xx 合并分支
