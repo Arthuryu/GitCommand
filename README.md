@@ -18,3 +18,13 @@
 * git reset HEAD xxx 从暂存区撤销
 * git reset --hard HEAD^ 整个代码版本回退(一个^代表一个版本)
 * git reset --hard xxxxxx 回退到具体某个版本
+* git push origin main 推送远程仓库
+* git tag xxx 创建标签 默认是加到最新一次的commit上面
+* git tag xxx xxxxxx 给某个版本加标签
+* git tag -d xx 删除某个标签
+* git push origin xx(v1.0) 把标签推送到远程仓库
+* git branch xx 创建分支
+* git branch 查看分支
+* git checkout xx 切换分支
+* git branch -d xx 删除分支，不能删除当前所在分支
+* git checkout -b xx 创建并切换分支
