@@ -30,3 +30,4 @@
 * git checkout -b xx 创建并切换分支
 * git merge xx 合并分支
 * git merge --abort 忽略其他分支代码 保留原分支代码
+* git log --oneline --graph 查看版本路线
