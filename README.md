@@ -8,3 +8,4 @@
 * git config --global user.name 'xxx' 配置git用户名
 * git config --global user.email 'xxx' 配置git用户邮箱
 * git config --global --list 配置的信息
+* git rm xxx 删除文件
