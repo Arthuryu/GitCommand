@@ -15,3 +15,5 @@
 * git log -p xxx 查看具体修改的内容
 * git diff 查看不同(改动内容不多的情况下)
 * git checkout -- xxx 把未提交的文件恢复到上次提交状态
+* git reset HEAD xxx 从暂存区撤销
+* 
